@@ -537,7 +537,7 @@ footer {
 
   /* showcase */
   .showcase h1{
-    font-size: 4rem;
+    font-size: 100%;
   }
   .showcase p {
     width: 100%;
